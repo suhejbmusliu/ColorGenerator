@@ -1,20 +1,20 @@
-📝 Text Generator
+🎨 Color Generator
 
-This project is a simple web application built with Vite + React that generates random or custom text based on user input.
-The main goal of this project was to practice React fundamentals and improve my understanding of state management, component structure, and props handling.
+This project is a React + Vite app that generates different shades of a selected color.
+Users can choose a color, view its variations, and click any color to copy its hex code.
 
-Through this project, I practiced:
+In this project, I practiced:
 
-Using useState and useEffect hooks
+Using useState for managing dynamic color data
 
-Managing user input and dynamically rendering text
+Working with the Values.js library to generate color palettes
 
-Organizing code into clean, reusable components
+Handling user input and events in React forms
 
-Handling events in React and updating the UI instantly
+Displaying lists of components dynamically
 
-Working with simple JavaScript logic inside a React environment
+Using React Toastify for error and success notifications
 
-Creating a fast and optimized frontend using Vite
+Copying text to clipboard using the Clipboard API
 
-This project helped me strengthen my frontend development skills and understand how small interactive tools can be built efficiently with React.
+This small project helped me improve my understanding of state management, component structure, and UI interactivity in React.
